@@ -1,4 +1,4 @@
-package excel.models;
+package models;
 
 public class Formula {
     
